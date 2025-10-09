@@ -26,7 +26,9 @@ I am a self-taught Full Stack Developer from Poland! Programming is my passion a
 </p>
 
 <h2>🤝 Realizations</h2>
-<a href="https://hicksracing.com" target="_blank">Hicks Racing</a>
+<ol>
+  <li> <a href="https://hicksracing.com" target="_blank">Hicks Racing</a></li>
+</ol>
 
 <h2>🎓 Frontend Mentor Projects</h2>
 
