@@ -25,3 +25,16 @@ I am a self-taught Full Stack Developer from Poland! Programming is my passion a
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
+<h2>🤝 Realizations</h2>
+<a href="https://hicksracing.com" target="_blank">Hicks Racing</a>
+
+<h2>🎓 Frontend Mentor Projects</h2>
+
+<ul>
+  <li>
+    <a href="https://github.com/nieukki/recipe-finder" target="_blank">Recipe Finder 👨‍🍳</a>
+  </li>
+  <li>
+    <a href="https://github.com/nieukki/url-shortening-frontend-mentor" target="_blank">URL Shortening App 🤏🔗</a>
+  </li>
+</ul>
