@@ -34,9 +34,12 @@ I am a self-taught Full Stack Developer from Poland! Programming is my passion a
 
 <ul>
   <li>
-    <a href="https://github.com/nieukki/recipe-finder" target="_blank">Recipe Finder 👨‍🍳</a>
+    <a href="https://github.com/tomasz-pacek/recipe-finder" target="_blank">Recipe Finder 👨‍🍳</a>
   </li>
   <li>
-    <a href="https://github.com/nieukki/url-shortening-frontend-mentor" target="_blank">URL Shortening App 🤏🔗</a>
+    <a href="https://github.com/tomasz-pacek/countries-with-theme-switcher" target="_blank">Countries 🚩</a>
+  </li>
+  <li>
+    <a href="https://github.com/tomasz-pacek/url-shortening-frontend-mentor" target="_blank">URL Shortening App 🤏🔗</a>
   </li>
 </ul>
