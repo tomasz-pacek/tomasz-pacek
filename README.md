@@ -28,6 +28,7 @@ I am a self-taught Full Stack Developer from Poland! Programming is my passion a
 <h2>Currently learning</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 </p>
 
 <h2>🤝 Realizations</h2>
