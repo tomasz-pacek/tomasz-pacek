@@ -30,6 +30,13 @@ I am a self-taught Full Stack Developer from Poland! Programming is my passion a
   <li> <a href="https://hicksracing.com" target="_blank">Hicks Racing</a></li>
 </ol>
 
+<h2>Projects</h2>
+<ol>
+  <li>
+    <a href="https://github.com/tomasz-pacek/realtime-chat" target="_blank">Realtime Chat 💬</a>
+  </li>
+</ol>
+
 <h2>🎓 Frontend Mentor Projects</h2>
 
 <ul>
@@ -37,9 +44,10 @@ I am a self-taught Full Stack Developer from Poland! Programming is my passion a
     <a href="https://github.com/tomasz-pacek/recipe-finder" target="_blank">Recipe Finder 👨‍🍳</a>
   </li>
   <li>
-    <a href="https://github.com/tomasz-pacek/countries-with-theme-switcher" target="_blank">Countries 🚩</a>
+    <a href="https://github.com/tomasz-pacek/flashcard-app" target="_blank">Flashcard App 🗂️</a>
   </li>
   <li>
-    <a href="https://github.com/tomasz-pacek/url-shortening-frontend-mentor" target="_blank">URL Shortening App 🤏🔗</a>
+    <a href="https://github.com/tomasz-pacek/countries-with-theme-switcher" target="_blank">Countries 🚩</a>
   </li>
+  
 </ul>
