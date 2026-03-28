@@ -26,9 +26,12 @@ I am a self-taught Full Stack Developer from Poland! Programming is my passion a
 </p>
 
 <h2>🤝 Realizations</h2>
-<ol>
-  <li> <a href="https://hicksracing.com" target="_blank">Hicks Racing</a></li>
-</ol>
+
+  <p>
+    Website preview: <a href="https://hicksracing.com" target="_blank">Hicks Racing</a> </br>
+  Admin Panel UI Screenshots: <a href="https://www.figma.com/design/dZlwCiwy7j9KmQf7vcern3/Hicks-Racing-Preview---Admin-Panel?node-id=0-1&t=M8K31PMnjR8fdvgg-1" target="_blank">Figma - Hicks Racing</a> 
+  </p>
+
 
 <h2>Projects</h2>
 <ol>
