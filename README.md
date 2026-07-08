@@ -34,15 +34,11 @@ I am a self-taught Full Stack Developer from Poland! Programming is my passion a
 
 
 <h2>Projects</h2>
-<ol>
+
+<ul>
   <li>
     <a href="https://github.com/tomasz-pacek/realtime-chat" target="_blank">Realtime Chat 💬</a>
   </li>
-</ol>
-
-<h2>🎓 Frontend Mentor Projects</h2>
-
-<ul>
   <li>
     <a href="https://github.com/tomasz-pacek/recipe-finder" target="_blank">Recipe Finder 👨‍🍳</a>
   </li>
