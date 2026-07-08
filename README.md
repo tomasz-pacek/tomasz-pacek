@@ -37,6 +37,9 @@ I am a self-taught Full Stack Developer from Poland! Programming is my passion a
 
 <ul>
   <li>
+    <a href="https://github.com/tomasz-pacek/savings-tracker" target="_blank">Savings Tracker 🎯</a>
+  </li>
+  <li>
     <a href="https://github.com/tomasz-pacek/realtime-chat" target="_blank">Realtime Chat 💬</a>
   </li>
   <li>
@@ -45,8 +48,4 @@ I am a self-taught Full Stack Developer from Poland! Programming is my passion a
   <li>
     <a href="https://github.com/tomasz-pacek/flashcard-app" target="_blank">Flashcard App 🗂️</a>
   </li>
-  <li>
-    <a href="https://github.com/tomasz-pacek/countries-with-theme-switcher" target="_blank">Countries 🚩</a>
-  </li>
-  
 </ul>
